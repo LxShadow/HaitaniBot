@@ -44,7 +44,7 @@ global.titulowm2 = `𝑯𝒂𝒊𝒕𝒂𝒏𝒊 𝑩𝒐𝒕`
 global.igfg = '𝑯𝒂𝒊𝒕𝒂𝒏𝒊 𝑩𝒐𝒕';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
-global.imagen1 = fs.readFileSync('./menhau.png');
+global.imagen1 = fs.readFileSync('./menhai.png');
 global.imagen2 = fs.readFileSync('./src/newhai.png');
 global.imagen3 = fs.readFileSync('./src/newhai.png');
 global.imagen4 = fs.readFileSync('./menhai.png');
